@@ -1,0 +1,3 @@
+.header {
+  @apply m-4 flex justify-end gap-2;
+}
